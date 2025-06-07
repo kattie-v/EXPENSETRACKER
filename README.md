@@ -11,6 +11,7 @@
 - Thống kê trực quan theo thời gian và danh mục
 - Biểu đồ thống kê bằng Recharts
 - Xuất dữ liệu ra file Excel
+- Truy vấn qua chatbot AI 
 
 ### 🛠 Công nghệ sử dụng:
 - **Frontend**: React, TailwindCSS, Vite, Recharts, Moment.js
