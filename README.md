@@ -24,7 +24,7 @@ readme_content = """\
 
 ## ⚙️ Hướng Dẫn Cài Đặt
 
-# Tao file `.evn`
+# Create file `.evn`
 ```
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
