@@ -1,7 +1,4 @@
 
-from pathlib import Path
-
-readme_content = """\
 # 💸 Ứng dụng Quản lý Chi tiêu Cá nhân
 
 ## 📌 Mô tả Dự Án
